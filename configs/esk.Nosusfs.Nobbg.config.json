@@ -7,7 +7,7 @@
   "susfs": "true",
   "ssg": "true",
   "lxc_enable": "true",
-  "stock_config": "true",
+  "stock_config": "false",
   "baseband_guard": "true",
   "key": "ak3-5.10_ztc"
 }
