@@ -1,5 +1,5 @@
 {
-  "kernel": "esk",
+  "kernel": "ztc",
   "kernelsu": "main",
   "better_net": "true",
   "zram": "true",
@@ -9,5 +9,5 @@
   "lxc_enable": "true",
   "stock_config": "true",
   "baseband_guard": "true",
-  "key": "ak3-5.10_esk"
+  "key": "ak3-5.10_ztc"
 }
