@@ -1,13 +1,13 @@
 {
   "kernel": "esk",
-  "kernelsu": "disable",
-  "better_net": "false",
-  "zram": "false",
+  "kernelsu": "main",
+  "better_net": "true",
+  "zram": "true",
   "rekernel_enable": "true",
-  "susfs": "false",
-  "ssg": "false",
-  "lxc_enable": "false",
-  "stock_config": "false",
-  "baseband_guard": "false",
+  "susfs": "true",
+  "ssg": "true",
+  "lxc_enable": "true",
+  "stock_config": "true",
+  "baseband_guard": "true",
   "key": "ak3-5.10_esk"
 }
