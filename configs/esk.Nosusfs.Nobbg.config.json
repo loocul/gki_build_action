@@ -1,10 +1,10 @@
 {
   "kernel": "ztc",
-  "kernelsu": "main",
+  "kernelsu": "false",
   "better_net": "true",
   "zram": "true",
   "rekernel_enable": "true",
-  "susfs": "true",
+  "susfs": "false",
   "ssg": "true",
   "lxc_enable": "false",
   "stock_config": "false",
